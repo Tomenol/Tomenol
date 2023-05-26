@@ -5,6 +5,6 @@ My name is Thomas Maynadié and I am an Engineering student at ISAE ESTACA. I am
 ### Topics of interest:
 - Instrument design & rocketry
 - Development of scientific simulation/data analysis software for Physics and Engineering  
+- Science: Planetary science, space physics, cosmology, astrophysics
 - Simulation based Design
-- Modeling of complex physical phenomena
 - Self learning 
